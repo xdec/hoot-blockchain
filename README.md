@@ -16,7 +16,7 @@ _This is not a live cryptocurrency or blockchain application. This was an exerci
 Section | Component | Link
 --- | --- | ---
 Blockchain | Block | [View Code](./blockchain/block.js)
-Blockchain | Blockchain | [View Code](./blockchain/blockchain.js)
+Blockchain | Blockchain | [View Code](./blockchain/index.js)
 P2P Server | API | [View Code](./app/index.js)
 P2P Server | Miner | [View Code](./app/miner.js)
 P2P Server | Server | [View Code](./app/p2p-server.js)

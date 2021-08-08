@@ -23,3 +23,9 @@ P2P Server | Server | [View Code](./app/p2p-server.js)
 Wallet | Transaction | [View Code](./wallet/transaction.js)
 Wallet | Transaction Pool | [View Code](./wallet/transaction-pool.js)
 Wallet | Wallet | [View Code](./wallet/index.js)
+
+---
+
+### Learn how to build a blockchain application like this one:     
+1. Udemy - [Build a Blockchain and a Cryptocurrency from Scratch](https://www.udemy.com/course/build-blockchain/) - David Joseph Katz :star::star::star::star::star:     
+2. Udemy - [Build a Blockchain & Cryptocurrency | Full-Stack Edition](https://www.udemy.com/course/build-blockchain-full-stack/) - David Joseph Katz :star::star::star::star::star:
